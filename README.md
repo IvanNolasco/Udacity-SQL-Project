@@ -1,4 +1,4 @@
 # Udacity-SQL-Project
 Data Analytics project applied to a Digital Music Store. 
-* Used SQL queries for Exploratory Analysis in the Database 
-* Used Excel to build Data Visualizations
+* Used SQL queries for data cleaning and exploratory analysis in the database 
+* Used Excel to build data visualizations
